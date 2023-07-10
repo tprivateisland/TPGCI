@@ -1,0 +1,88 @@
+
+.web-header{background-image: url("images/pexels-photo-8166834.jpeg");
+    background-size:cover;height: 250px}
+.title{color:white;font-size:28px;
+    font-family: 'Roboto', sans-serif;margin-top:20px}
+
+html{height: fit-content;}
+.web-title{display: inline-block;font-weight: bold;}
+
+.items-container{display: inline-block;margin-left : 700px;}}
+body{margin:0%;}
+button{color: white;background-color: transparent; border: none;
+
+    font-size: 16px ;}
+a:visited{color: white; text-decoration: none;}
+a:link{color: white; text-decoration: none;}
+.btn-Activities:hover{text-decoration: underline;}
+.btn-Insta:hover{text-decoration: underline;}
+.btn-About:hover{text-decoration: underline;}
+.header-bottom-text-1{text-align: center;}
+.think-green{font-family: 'Roboto', sans-serif;
+    font-weight: bold;color:white;
+    font-size:calc(16px)}
+
+.it-starts{font-family: 'Roboto', sans-serif;
+    font-weight:bolder;color:white;
+    font-size:32px;margin-top: 24px}
+.header-bottom-text-1{vertical-align: middle; margin-top: 25px;}
+
+/* Body--------------*/
+.first-quater{text-align: center;height: 350px
+    ;margin-left:15px;
+    margin-right: 15px;
+    margin-bottom: 0px}
+.first-quater-text-1{margin-top: 0%;}
+.first-quater-text-2{margin-top:0%}
+.div-first-quater-text-1{margin-top: 100px;
+    font-family: 'Roboto', sans-serif;
+    font-weight:bolder;color:black;
+    font-size:28px;margin-top: 24px;display: inline-block;}
+
+.div-first-quater-text-2{font-family: 'Roboto', sans-serif;
+    color:black;line-height: 1.8;
+    font-size:16px;display: inline-block;width:fit-content}
+/* Body---------2nd quater-----*/
+
+.second-quater{ text-align: center;height: 760px
+    ;margin-left:15px;
+    margin-right: 15px;
+    margin-bottom: 0px}
+.second-quater-image{width: 300px;height: 300px;}
+.div-second-quater-text-container{display: inline-block;
+    vertical-align: top;
+    text-align: center;margin-bottom: 10px;}
+.div-second-quater-image{display: inline-block;width:300px;height:300px}
+.div-second-quater-text-1{
+    font-family: 'Roboto', sans-serif;
+    font-weight:bolder;color:black;
+    font-size:32px;margin-top: 14px;display: inline-block;}
+.second-quater-text-1{margin-top: 0%;}
+.second-quater-text-2{font-size: 16px ;line-height: 1.8;
+    font-family: 'Roboto', sans-serif;text-align: left;display: inline-block}
+
+.third-quater{text-align: center;height: fit-content
+    ;margin-left:15px;
+    margin-right: 15px;margin-bottom: 30px;}
+.third-quater-image{width: 0px;height: 0px;}
+.div-third-quater-text-container{margin-top: 20px ;display: inline-block;
+    vertical-align: top;text-align: center}
+
+    .logo{width:25px;}
+.div-third-quater-image-top{display: inline-block;width:300px;height:300px}
+.third-quater-image-top{width: 300px;height: 300px;}
+.div-third-quater-image{height:0px;width:0px}
+.div-third-quater-text-1{margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight:bolder;color:black;
+    font-size:32px;margin-top: 44px;display: inline-block;}
+.third-quater-text-1{margin-top: 0%; margin-bottom: 0%;}
+.third-quater-text-2{font-size: 18px ;line-height: 1.8;
+    font-family: 'Roboto', sans-serif;}
+.div-link-icons{display: inline-block;letter-spacing: 15px;}
+
+footer{background-color: rgb(82, 82, 82) ;height: 120px;}
+.div-footer{text-align: center;margin-left: 15px;
+    margin-right: 15px;height: 120px;}
+.div-footer-button{display: inline-block;padding-top: 50px;}
+.btn-contact-us:hover{text-decoration: underline;}

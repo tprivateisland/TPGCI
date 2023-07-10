@@ -1,0 +1,63 @@
+.web-header{background-image: url("images/pexels-afta-putta-gunawan-1250346.jpg");
+    background-size:cover;height: 365px
+}
+
+.title{color:white;font-size: calc(2 * 1rem);
+    font-family: 'Roboto', sans-serif;margin-top:20px}
+.web-title{display: inline-block;font-weight: bold;margin-left: 40px;}
+
+.items-container{display: inline-block;margin-left: 600px;}
+.insta-logo{width:20px;height:20px}
+body{margin: 0%;}
+button{color: white;background-color: transparent; border: none;
+
+    font-size: 16px ;}
+a:visited{color: white; text-decoration: none;}
+a:link{color: white; text-decoration: none;}
+.btn-Activities:hover{text-decoration: underline;}
+.btn-Insta:hover{text-decoration: underline;}
+.btn-About:hover{text-decoration: underline;}
+.header-bottom-text-1{text-align: center;}
+.think-green{font-family: 'Roboto', sans-serif;
+    font-weight: bold;color:white;
+    font-size:calc(1.2 * 1rem)}
+.div-section-1{margin-left: 230px;margin-right: 230px; margin-bottom: 120px;}
+.div-section-2{margin-left: 230px;margin-right: 230px; margin-bottom: 120px;}
+
+.div-section-1-text-1{display: inline-block;}
+
+
+.section-1-text-1{font-family: 'Roboto', sans-serif;
+    font: weight 650;
+    color:black;
+    font-size:36px;font-weight: 600; margin-bottom:0px}
+
+.section-1-text-2{font-family: 'Roboto', sans-serif;
+    font-weight :500;
+    color:black;
+    font-size:20px;}
+
+.partner-logo{width: 100px;height: 100px}
+.logo-text{font-family: 'Roboto', sans-serif;;color:black;
+    font-size:18px}
+
+.div-icons{text-align: center}
+
+.section-2-text-1{font-family: 'Roboto', sans-serif;
+    color:black;
+    font-size:26px;font-weight: 600; margin-bottom:0px}
+.section-2-text-2{font-family: 'Roboto', sans-serif;
+    color:black;
+    font-size:16px; margin-bottom:0px}
+.partners{font-family: 'Roboto', sans-serif;
+    font-weight:bolder;color:white;
+    font-size:64px;margin-top: 44px}
+.partner-1{display:inline-block;text-align: center;}
+.partner-2{display:inline-block;text-align: center;}
+    footer{background-color: rgb(82, 82, 82) ;height: 120px}
+.div-footer{text-align: center;margin-left: 150px;
+    margin-right: 150px;height: 120px;}
+.btn-partners{text-decoration: underline;}
+.div-footer-button{display: inline-block;padding-top: 50px;}
+.btn-contact-us:hover{text-decoration: underline;}
+

@@ -1,0 +1,32 @@
+.web-header{background-image: url("images/bg-about.jpg.png");
+    background-size:cover;height: 365px;transition: 0.15s;}
+
+.title{color:white;font-size: calc(2 * 1rem);
+    font-family: 'Roboto', sans-serif;margin-top:20px;}
+.web-title{display: inline-block;font-weight: bold;margin-left: 40px;}
+a:visited{color: white; text-decoration: none;}
+a:link{color: white; text-decoration: none;}
+.items-container{display: inline-block;margin-left: 600px;}
+
+body{margin: 0%;}
+button{color: white;background-color: transparent; border: none;
+
+    font-size: 16px ;}
+.btn-Activities:hover{text-decoration: underline;}
+.btn-Insta:hover{text-decoration: underline;}
+.btn-About{text-decoration: underline;}
+.header-bottom-text-1{text-align: center;}
+
+.about-header-text{font-family: 'Roboto', sans-serif;
+    font-weight:bolder;color:white;
+    font-size:64px;margin-top: 44px}
+.header-bottom-text-1{vertical-align: middle; margin-top: 50px;}
+.insta-logo{width:20px;height:20px}
+.logo{width:50px;}
+
+footer{background-color: rgb(82, 82, 82) ;height: 120px}
+.div-footer{text-align: center;margin-left: 150px;
+    margin-right: 150px;height: 120px;}
+.div-footer-button{display: inline-block;padding-top: 50px;}
+.btn-contact-us:hover{text-decoration: underline;}
+@media only screen and (max-width: 600px) {}
